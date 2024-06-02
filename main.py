@@ -9,7 +9,7 @@ template_dir = os.path.abspath('templates')
 # Установка каталога с шаблонами
 app.template_folder = template_dir
 
-# Простой словарь с курсами валют
+# Простой словарь с курсами валютпше
 exchange_rates = {
     'USD': 1.0,
     'EUR': 0.85,
